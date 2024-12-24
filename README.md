@@ -1,6 +1,6 @@
 # Data Analyst Internship | Mentorness
 
-✦ During this Internship :
+ During this Internship :
 
 - Designed and developed a detailed 4- page Power BI dashboard for NREGA analysis, analysed employment data across 29 states, and over 5 million job cards, Rs. 20,000 crore expenditures, visualizing key metrics like job card issuance, workforce participation, and budget utilization and providing insights into rural employment trends under the NREGA scheme.
 
