@@ -6,7 +6,7 @@
 
 - Conducted an in-depth COVID-19 analysis using MySQL, processing data on 169 million+ confirmed cases, 113 million+ recoveries, and 3.6 million+ deaths, identifying regional trends, peak periods, and top recovery rates to deliver actionable insights.
 
-# "Corona-Virus Analysis" using MySQL
+# Corona-Virus (Covid-19) Analysis | MySQL
 
 ► As a part of Data Analyst  Internship at Mentorness, I have been tasked to analyse Corona-Virus Dataset using MySQL.
 
@@ -303,7 +303,6 @@ Insight: Recognizes regions with strong recovery efforts.
 ![20](https://github.com/user-attachments/assets/7a9e75e4-b18b-4b1e-878e-c3f5b0cf6a7b)
 ![21](https://github.com/user-attachments/assets/e4b52d00-6824-46e8-8315-162b023c6637)
 ![22](https://github.com/user-attachments/assets/738edb03-6ad8-45ec-a9b5-540213deca0f)
-![23](https://github.com/user-attachments/assets/ab75b6ff-5a6c-441a-a76e-6ec35baa9155)
 
 
 
@@ -330,6 +329,8 @@ The US having the highest confirmed cases is consistent with global reports of t
 High recovery numbers in populous countries like India, Brazil, and the US are expected given their large populations and significant numbers of confirmed cases. The high recovery rate can provide insights into healthcare response effectiveness and the overall trajectory of the pandemic in these regions.
 
 ✨ These insights can help in understanding the global impact of COVID-19, the effectiveness of different countries' responses, and the overall trends in confirmed, death, and recovery cases during the specified period.
+
+
 
 
 
