@@ -6,11 +6,7 @@
 
 - Conducted an in-depth COVID-19 analysis using MySQL, processing data on 169 million+ confirmed cases, 113 million+ recoveries, and 3.6 million+ deaths, identifying regional trends, peak periods, and top recovery rates to deliver actionable insights.
 
-# Corona-Virus (Covid-19) Analysis | MySQL
-
-► As a part of Data Analyst  Internship at Mentorness, I have been tasked to analyse Corona-Virus Dataset using MySQL.
-
-### 𝐓𝐚𝐬𝐤 𝟐 : Corona-Virus Analysis using MySQL
+## 𝐓𝐚𝐬𝐤 1 : Corona-Virus (Covid-19) Analysis | MySQL
 
 ### ➡️ Objective of the Project :
 
